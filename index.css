@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
-   /* background: linear-gradient(135deg, #d10aa6, #0252f1, #bf05f3); */
+   background: linear-gradient(135deg, #d10aa6, #0252f1)
 }
 .container{
     width: 70%;
